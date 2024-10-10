@@ -20,8 +20,17 @@ footer: "ECL 2.0 Licensed | Copyright © [YYYY] [Your name] |"
 
 **Виконали:** 
 
-*студент(-ка) 2-го курсу, групи (шифр групи)*<span padding-right:5em></span> **[Імʼя Прізвище]**<span padding-left:5em></span> [Telegram](https://t.me/a_boldak)  
+*студент 2-го курсу, групи ІМ-32*<span padding-right:5em></span> **Федоренко Максим**<span padding-left:5em></span> [Telegram](https://t.me/maksfed31)  
 
+*студент 2-го курсу, групи ІМ-32*<span padding-right:5em></span> **Висоцький Ярослав**<span padding-left:5em></span> [Telegram](https://t.me/vysotskyi9)  
+
+*студент 2-го курсу, групи ІМ-32*<span padding-right:5em></span> **Інвія Констянтин**<span padding-left:5em></span> [Telegram](https://t.me/Kirizii)  
+
+*студент 2-го курсу, групи ІМ-32*<span padding-right:5em></span> **Мішуров Віталій**<span padding-left:5em></span> [Telegram](https://t.me/vitali_mish)  
+
+*студент 2-го курсу, групи ІМ-32*<span padding-right:5em></span> **Пуленко Євгеній**<span padding-left:5em></span> [Telegram](https://t.me/turbososyn)
+
+*студент 2-го курсу, групи ІМ-32*<span padding-right:5em></span> **Поздєєв Матвій**<span padding-left:5em></span> [Telegram](https://t.me/Dr_Wondertainment)    
 
 **Керівник**
 
