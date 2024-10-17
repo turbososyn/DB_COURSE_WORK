@@ -8,7 +8,7 @@ export default defineUserConfig({
 
   lang: "en-US",
   // Замінити на назву свого проєкту
-  title: "Назва проєкту",
+  title: "PulseVote",
   description: "Лабораторні роботи",
 
   theme,
