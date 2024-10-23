@@ -41,15 +41,15 @@ FURPS допомагає систематизувати як функціона�
 ### <span id = "links">Посилання</span>
 
 *[Розділ містить повний список всіх документів, про які згадується.]*
-1. [Предметна область] (https://uk.wikipedia.org/wiki/Предметна_область#cite_note-1)
+1. [Предметна область](https://uk.wikipedia.org/wiki/Предметна_область#cite_note-1)
 2. Ворончак І. Соціальна відповідальність бізнесу як соціально-економічний феномен // Відповідальна економіка. — 2009. — № 1. — С. 90–103.
 3. BABOK® Guide v3 Glossary - Ukrainian Translation
-4. [FURPS] (https://uk.wikipedia.org/wiki/FURPS)
-5. [REST] (https://uk.wikipedia.org/wiki/REST)
-6. [API] (https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B8%D0%B9_%D1%96%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81)
-7. [SOLID] (https://en.wikipedia.org/wiki/SOLID)
-8. [DRY] (https://ru.wikipedia.org/wiki/Don’t_repeat_yourself)
-9. [KISS] (https://uk.wikipedia.org/wiki/Принцип_«KISS»)
+4. [FURPS](https://uk.wikipedia.org/wiki/FURPS)
+5. [REST](https://uk.wikipedia.org/wiki/REST)
+6. [API](https://uk.wikipedia.org/wiki/%D0%9F%D1%80%D0%B8%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BD%D0%B8%D0%B9_%D1%96%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81)
+7. [SOLID](https://en.wikipedia.org/wiki/SOLID)
+8. [DRY](https://ru.wikipedia.org/wiki/Don’t_repeat_yourself)
+9. [KISS](https://uk.wikipedia.org/wiki/Принцип_«KISS»)
 
 
 ## Короткий зміст
