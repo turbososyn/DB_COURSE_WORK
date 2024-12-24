@@ -72,5 +72,5 @@ INSERT INTO Survey (survey_name, survey_description, survey_result, survey_user)
 VALUES 
 ('Customer Satisfaction Survey', 'Survey about customer satisfaction', 1, 1),
 ('Employee Feedback Survey', 'Collecting feedback from employees', 2, 2),
-('Website Usability Survey', 'Survey to evaluate website usability', NULL, 3);
+('Website Usability Survey', 'Survey to evaluate website usability', NULL, 3)
 ```
