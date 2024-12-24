@@ -1,28 +1,21 @@
-# Тестування працездатності системи
+# Тестування програмного забезпечення
 
-### Вивід всіх користувачів
+### Додавання нової ролі
 
+![image](/test/test_images/post_role.png)
 
-![](../../test/test_images/get_all.png)
+### Виведення всіх ролей
 
+![image](/test/test_images/get_roles.png)
 
-### Вивід конкретного користувача
+### Виведення ролі за ID
 
-![](../../test/test_images/get_special_user.png)
+![image](/test/test_images/get_role_by_id.png)
 
+### Оновлення ролі 
 
-### Створення користувача
+![image](/test/test_images/put_role.png)
 
-![](../../test/test_images/create_one.png)
+### Видалення ролі 
 
-![](../../test/test_images/create_last.png)
-
-
-### Оновлення даних користувача
-
-![](../../test/test_images/update.png)
-
-
-### Видалення користувача 
-
-![](../../test/test_images/delete.png)
+![image](/test/test_images/delete_role.png)
